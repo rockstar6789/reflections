@@ -1,0 +1,9 @@
+What happens when you initialize a repository?
+ - a .git folder gets created, with git's supporting files in it
+Why do you need to do it?
+ - Need it to use Git
+
+How is the staging area different from the working directory and the repository?
+ - staging is a the pre-repository, where you can add before you fully commit
+What value do you think it offers?
+ - allows you to add/remove before fully commit

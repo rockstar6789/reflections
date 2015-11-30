@@ -1,0 +1,8 @@
+
+git log
+
+git init
+git add
+git status
+
+ - staging area vs. working directory

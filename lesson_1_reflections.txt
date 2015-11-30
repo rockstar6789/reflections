@@ -1,0 +1,38 @@
+Diff is useful for finding differenes in files
+ - also show a few pre and post code lines
+
+Accessing full versions of file makes me a better programmer, because:
+ - see where I made mistakes
+ - re-use things I did well
+
+Manually making commits
+  - forces you to think in chunks, as you want your commits in logical chunks
+
+Git log
+  - see list of the commits, dates and notes
+
+Git diff --stat
+   - see list stats of changes: insertions & deletions
+
+How might using version control make you more confident to make changes that could break something?
+ - checkout and and run prevoius versions ... or clone original and keep checkout one by one till find bug
+
+Now that you have your workspace set up, what do you want to try using Git for?
+ - coding versions of OPI App
+ - syncing Reaper repos
+ - synching different profiles or applications
+
+
+Git Commands
+Compare two commits, printing each line that is present in one commit, but not another
+> git diff
+
+Make a copy of an entire Git repository, including the history, onto your own computer
+> git clone
+
+Temporarily reset all filles in a directory, to their state at the time of a specific commit
+> git checkout
+
+Show the commits made in a repository, starting with the most recent
+> git log
+
