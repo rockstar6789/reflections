@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
- - 
+ - Useful to have a master online copy and versions that I can rever too, if I need to
+ - Useful as a backup for Everything
+ - Useful when I am not at my home computer, so I can create a file if I want to add it ... and then sync when I'm home
+
